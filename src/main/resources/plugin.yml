@@ -1,0 +1,5 @@
+name: ParkourCube
+version: '${project.version}'
+main: me.aleesk.parkourcube.ParkourCube
+author: 'Aleesk'
+api-version: 1.13

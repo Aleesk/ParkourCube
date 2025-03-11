@@ -1,0 +1,8 @@
+# Messages Config
+# placeholders: <score>
+start: "&3&lPARKOUR &8| &7Try to get over your high-score of &b<score>&7!"
+already: "&3&lPARKOUR &8| &cYou already have a parkour in progress!"
+streak: "&3&lPARKOUR &8| &7You are on a &b<score> &7point streak!"
+fall: "&3&lPARKOUR &8| &cYou fell from parkour! &7Your score: &b<score>"
+new-high-score: "&3&lPARKOUR &8| &aCongratulations! &7You have achieved a new high-score &b<score> &7points."
+area-not-defined: "&3&lPARKOUR &8| &cParkour area is not defined."
